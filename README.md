@@ -1,4 +1,4 @@
-# Go Todo REST API Example - Updated
+# Go Todo REST API Example - Updated 2
 A RESTful API example for simple todo application with Go
 
 It is a just simple tutorial or example for making simple RESTful API with Go using **gorilla/mux** (A nice mux library) and **gorm** (An ORM for Go)
